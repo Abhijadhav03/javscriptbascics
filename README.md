@@ -1,1 +1,1 @@
-# javscriptbascics
+# javscriptbasics
